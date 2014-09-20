@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一键锁屏</string>
+    <string name="sample_device_admin">Sample Device Admin</string>
+    <string name="sample_device_admin_description">Sample code for writing a DeviceAdmin class.
+        This implementation provides a UI (in ApiDemos) for you to directly control what the
+        DeviceAdmin doeswith the system.</string>
+    <string name="toast">设置/安全/设备管理器/激活SampleDeviceAdmin</string>
+</resources>
